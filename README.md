@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Sparsh!
 
-🎓 I'm currently pursuing my *Bachelor of Engineering in Computer Science, specializing in Artificial Intelligence & Machine Learning.
+🎓 I'm currently pursuing my Bachelor of Engineering in Computer Science, specializing in Artificial Intelligence & Machine Learning.
 Passionate about diving deep into the world of tech, I'm on an exciting journey of learning, building, and growing every day.
 
 ## 🚀 About Me
